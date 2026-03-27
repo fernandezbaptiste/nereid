@@ -1,6 +1,13 @@
 ---
 name: nereid
-description: Collaborate in Nereid Mermaid sessions via MCP using AST-first, probe-refine workflows for sequence diagrams, flowcharts, xrefs, routes, and walkthroughs. Use when exploring or editing diagrams with a human watching live in TUI, and when coordinating attention through `attention.*`, `follow_ai.*`, and `selection.*`.
+description: >
+  Collaborate in Nereid Mermaid sessions via MCP using AST-first, probe-refine
+  workflows for sequence diagrams, flowcharts, xrefs, routes, and walkthroughs.
+  Use when exploring or editing diagrams with a human watching live in TUI, and
+  when coordinating attention through attention, follow_ai, and selection tools.
+  Trigger terms: diagram editing, flowchart creation, sequence diagram changes,
+  chart exploration, visual diagram collaboration, walkthrough building, mermaid
+  diagram, edit flowchart, create sequence diagram.
 ---
 
 # Nereid MCP Collaboration
